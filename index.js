@@ -1,5 +1,3 @@
-const fs = require('fs');
-
 const genFiles = require("./lib/genFiles")
 
 for (let i = 2; i < process.argv.length; i++) {
